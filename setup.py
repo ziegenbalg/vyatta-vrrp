@@ -31,7 +31,7 @@ def get_version():
 
 setuptools.setup(
     name="vyatta-vrrp-vci",
-    version=get_version(),
+    version="3.8",
     maintainer="Vyatta Package Maintainers",
     author_email="DL-vyatta-help@att.com",
     description=(
