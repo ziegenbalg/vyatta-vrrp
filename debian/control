@@ -5,8 +5,7 @@ X-Python3-Version: >= 3.6
 Maintainer: Vyatta Package Maintainers <DL-vyatta-help@att.com>
 Build-Depends: debhelper (>= 9), debhelper (>= 9.20160709) | dh-systemd, dh-yang,
                python3, python3-all, python3-setuptools, dh-python, dh-vci, git,
-               python3-pytest, python3-pytest-pep8, python3-pytest-cov, 
-               python3-pytest-lazy-fixture, python3-pydbus
+               python3-pytest, python3-pytest-cov, python3-pydbus
 Standards-Version: 4.3.0
 
 Package: vyatta-vrrp
