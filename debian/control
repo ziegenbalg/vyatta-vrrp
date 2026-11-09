@@ -4,7 +4,7 @@ Priority: optional
 X-Python3-Version: >= 3.6
 Maintainer: Vyatta Package Maintainers <DL-vyatta-help@att.com>
 Build-Depends: debhelper (>= 9), debhelper (>= 9.20160709) | dh-systemd, dh-yang,
-               python3, python3-all, python3-setuptools, dh-python, dh-vci, git,
+               python3:native, python3-all:native, python3-setuptools, dh-python, dh-vci, git,
                python3-pytest, python3-pytest-cov, python3-pydbus
 Standards-Version: 4.3.0
 
